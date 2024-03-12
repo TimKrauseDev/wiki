@@ -4,6 +4,8 @@
 
 # Starter Feeding
 
+<!-- ![Recipe_Name](/img/recipes/recipe_name.jpg) -->
+
 This is the golden ratio for feeding your starter.
 
 ## Ingredients

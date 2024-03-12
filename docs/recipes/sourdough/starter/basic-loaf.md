@@ -4,7 +4,7 @@
 
 # Basic Loaf
 
-<!-- ![Recipe_Name](../img/recipe_name.jpg) -->
+<!-- ![Recipe_Name](/img/recipes/recipe_name.jpg) -->
 
 Recipe for a basic loaf of sourdough bread.
 
