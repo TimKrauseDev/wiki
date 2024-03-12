@@ -18,7 +18,7 @@ const config: Config = {
   organizationName: '', // Usually your GitHub org/user name.
   projectName: 'wiki', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
@@ -35,11 +35,11 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
-          editUrl: 'https://github.com/TimKrauseDev/wiki',
+          editUrl: 'https://github.com/TimKrauseDev/wiki/edit/main/',
         },
         blog: {
           showReadingTime: true,
-          editUrl: 'https://github.com/TimKrauseDev/wiki/',
+          editUrl: 'https://github.com/TimKrauseDev/wiki/edit/main/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -84,6 +84,11 @@ const config: Config = {
         {
           href: 'https://github.com/TimKrauseDev/wiki',
           label: 'GitHub',
+          position: 'right',
+        },
+        {
+          href: 'http://192.168.1.230/',
+          label: 'Printer',
           position: 'right',
         },
       ],
