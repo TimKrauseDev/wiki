@@ -2,9 +2,9 @@
 # sidebar_position:
 ---
 
-# Basic Loaf
+# Bread bowl
 
-![Recipe_Name](/img/recipes/sourdough/starter_basic-loaf.jpg)
+![Recipe_Name](/img/recipes/sourdough/starter_bread-bowl.jpg)
 
 Recipe for a basic loaf of sourdough bread.
 
@@ -23,8 +23,9 @@ Recipe for a basic loaf of sourdough bread.
 - Leave covered in a damp towel for 1 hour
 - Stretch & fold dough, then rest 30 minutes (x4)
 - After last stretch & fold, let rest 1 hour
-- Shape the dough into ball, then rest 30 minutes
-- Do the final shaping of the dough and put in proofing basket
+- Cut the dough into 3 equal parts
+- Shape the dough into balls, then rest 30 minutes
+- Do the final shaping of the dough and put them in proofing baskets
 - Let rest for 1 hour (or in fridge overnight for 8 - 14 hours)
 - Preheat oven to 450°F with dutch oven inside
 - Score dough, then add to dutch oven and bake covered for 20 minutes

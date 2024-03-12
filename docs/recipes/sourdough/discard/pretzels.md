@@ -4,7 +4,7 @@
 
 # Discard Pretzels
 
-<!-- ![Recipe_Name](/img/recipes/recipe_name.jpg) -->
+![Recipe_Name](/img/recipes/sourdough/discard_pretzels.jpg)
 
 Description of recipe
 
