@@ -39,3 +39,14 @@ $ GIT_USER=<Your GitHub username> yarn deploy
 ```
 
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+
+### Cropping Photos
+
+- Add images to the `static/crop_helper` folder.
+- Convert files to jpg with one of the following CLI commands:
+  - `heic2jpg`
+  - `png2jpg`
+  - `webp2jpg`
+- Run shell script to crop and resize images: `bash crop.sh`.
+- Cropped images will be created in the `cropped` folder.
+- Once complete, move cropped files and delete clean up directory.
