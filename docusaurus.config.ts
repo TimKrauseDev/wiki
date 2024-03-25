@@ -39,7 +39,6 @@ const config: Config = {
   ],
 
   themeConfig: {
-    // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     colorMode: {
       respectPrefersColorScheme: true
@@ -59,21 +58,27 @@ const config: Config = {
         },
         {
           type: 'docSidebar',
-          sidebarId: 'docsSidebar',
+          sidebarId: 'plantsSidebar',
           position: 'left',
-          label: 'Docs',
+          label: 'Plants',
         },
         {
           type: 'docSidebar',
-          sidebarId: 'guidesSidebar',
+          sidebarId: 'miscSidebar',
           position: 'left',
-          label: 'Guides',
+          label: 'Misc',
         },
-        {
-          to: '/blog',
-          label: 'Blog',
-          position: 'left'
-        },
+        // {
+        //   type: 'docSidebar',
+        //   sidebarId: 'guidesSidebar',
+        //   position: 'left',
+        //   label: 'Guides',
+        // },
+        // {
+        //   to: '/blog',
+        //   label: 'Blog',
+        //   position: 'left'
+        // },
         {
           href: 'https://github.com/TimKrauseDev/wiki',
           label: 'GitHub',
