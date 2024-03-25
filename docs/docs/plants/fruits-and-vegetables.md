@@ -42,6 +42,20 @@ This is a collection of fruits and vegetables that I've grown.
 | Maturity Time | 85 days |
 | Growth | herbaceous |
 
+## Strawberry - Four Seasons
+
+These never grow.
+
+![](/img/plants/fruits-and-vegetables/strawberry-four-seasons.jpg)
+
+| Info | Description |
+| ----------- | ----------- |
+| Website | [Amazon](https://www.amazon.com/gp/product/B0CCP4G7TW) |
+| Toxic to cats |  |
+| Sun | Full sun |
+| Maturity Time | |
+| Growth | |
+
 ## Pepper - Sweet - Pretty N Sweet
 
 ![](/img/plants/fruits-and-vegetables/pretty-n-sweet-f1-hybrid-pepper.jpg)
@@ -77,3 +91,15 @@ This is a collection of fruits and vegetables that I've grown.
 | Sun | Full sun |
 | Maturity Time | 65 days |
 | Growth | Vine |
+
+## Tomato Dwarf - Red and Yellow
+
+![](/img/plants/fruits-and-vegetables/dwarf-tomato-red-and-yellow.jpg)
+
+| Info | Description |
+| ----------- | ----------- |
+| Website | [Amazon - VAACNEE](https://www.amazon.com/gp/product/B09KG9YN4P) |
+| Toxic to cats |  |
+| Sun | Full sun |
+| Maturity Time | 10-25 day germination |
+| Growth | 10-15" height |
