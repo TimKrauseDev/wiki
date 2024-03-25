@@ -6,6 +6,32 @@
 
 This is a collection of herbs that I've grown.
 
+## Basil
+
+### Sweet Basil
+
+![](/img/plants/herbs/sweet-basil.jpg)
+
+| Info | Description |
+| ----------- | ----------- |
+| Website | [Amazon - Rebel Gardens](https://www.amazon.com/gp/product/B01C5CR47M) |
+| Toxic to cats |  |
+| Sun |  |
+| Maturity Time |  |
+| Growth |  |
+
+### Thai Basil
+
+![](/img/plants/herbs/thai-basil.jpg)
+
+| Info | Description |
+| ----------- | ----------- |
+| Website | [Amazon - Rebel Gardens](https://www.amazon.com/gp/product/B01C5CR47M) |
+| Toxic to cats |  |
+| Sun |  |
+| Maturity Time |  |
+| Growth |  |
+
 ## Chives
 
 ![](/img/plants/herbs/chives.jpg)
@@ -54,90 +80,6 @@ This is a collection of herbs that I've grown.
 | Maturity Time |  |
 | Growth |  |
 
-## Oregano
-
-![](/img/plants/herbs/oregano.jpg)
-
-| Info | Description |
-| ----------- | ----------- |
-| Website | [Amazon - Rebel Gardens](https://www.amazon.com/gp/product/B01C5CR47M) |
-| Toxic to cats |  |
-| Sun |  |
-| Maturity Time |  |
-| Growth |  |
-
-## Sweet Basil
-
-![](/img/plants/herbs/sweet-basil.jpg)
-
-| Info | Description |
-| ----------- | ----------- |
-| Website | [Amazon - Rebel Gardens](https://www.amazon.com/gp/product/B01C5CR47M) |
-| Toxic to cats |  |
-| Sun |  |
-| Maturity Time |  |
-| Growth |  |
-
-## Thai Basil
-
-![](/img/plants/herbs/thai-basil.jpg)
-
-| Info | Description |
-| ----------- | ----------- |
-| Website | [Amazon - Rebel Gardens](https://www.amazon.com/gp/product/B01C5CR47M) |
-| Toxic to cats |  |
-| Sun |  |
-| Maturity Time |  |
-| Growth |  |
-
-## Parsley
-
-![](/img/plants/herbs/parsley.jpg)
-
-| Info | Description |
-| ----------- | ----------- |
-| Website | [Amazon - Rebel Gardens](https://www.amazon.com/gp/product/B01C5CR47M) |
-| Toxic to cats |  |
-| Sun |  |
-| Maturity Time |  |
-| Growth |  |
-
-## Sage
-
-![](/img/plants/herbs/sage.jpg)
-
-| Info | Description |
-| ----------- | ----------- |
-| Website | [Amazon - Rebel Gardens](https://www.amazon.com/gp/product/B01C5CR47M) |
-| Toxic to cats |  |
-| Sun |  |
-| Maturity Time |  |
-| Growth |  |
-
-## Thyme
-
-![](/img/plants/herbs/thyme.jpg)
-
-| Info | Description |
-| ----------- | ----------- |
-| Website | [Amazon - Rebel Gardens](https://www.amazon.com/gp/product/B01C5CR47M) |
-| Toxic to cats |  |
-| Sun |  |
-| Maturity Time |  |
-| Growth |  |
-
-## Rosemary
-
-![](/img/plants/herbs/rosemary.jpg)
-
-| Info | Description |
-| ----------- | ----------- |
-| Website | [Amazon - Rebel Gardens](https://www.amazon.com/gp/product/B01C5CR47M) |
-| Toxic to cats |  |
-| Sun |  |
-| Maturity Time |  |
-| Growth |  |
-
 ## Lemon Balm
 
 ![](/img/plants/herbs/lemon-balm.jpg)
@@ -162,9 +104,69 @@ This is a collection of herbs that I've grown.
 | Maturity Time |  |
 | Growth |  |
 
+## Oregano
+
+![](/img/plants/herbs/oregano.jpg)
+
+| Info | Description |
+| ----------- | ----------- |
+| Website | [Amazon - Rebel Gardens](https://www.amazon.com/gp/product/B01C5CR47M) |
+| Toxic to cats |  |
+| Sun |  |
+| Maturity Time |  |
+| Growth |  |
+
+## Parsley
+
+![](/img/plants/herbs/parsley.jpg)
+
+| Info | Description |
+| ----------- | ----------- |
+| Website | [Amazon - Rebel Gardens](https://www.amazon.com/gp/product/B01C5CR47M) |
+| Toxic to cats |  |
+| Sun |  |
+| Maturity Time |  |
+| Growth |  |
+
+## Rosemary
+
+![](/img/plants/herbs/rosemary.jpg)
+
+| Info | Description |
+| ----------- | ----------- |
+| Website | [Amazon - Rebel Gardens](https://www.amazon.com/gp/product/B01C5CR47M) |
+| Toxic to cats |  |
+| Sun |  |
+| Maturity Time |  |
+| Growth |  |
+
+## Sage
+
+![](/img/plants/herbs/sage.jpg)
+
+| Info | Description |
+| ----------- | ----------- |
+| Website | [Amazon - Rebel Gardens](https://www.amazon.com/gp/product/B01C5CR47M) |
+| Toxic to cats |  |
+| Sun |  |
+| Maturity Time |  |
+| Growth |  |
+
 ## Spearmint
 
 ![](/img/plants/herbs/spearmint.jpg)
+
+| Info | Description |
+| ----------- | ----------- |
+| Website | [Amazon - Rebel Gardens](https://www.amazon.com/gp/product/B01C5CR47M) |
+| Toxic to cats |  |
+| Sun |  |
+| Maturity Time |  |
+| Growth |  |
+
+## Thyme
+
+![](/img/plants/herbs/thyme.jpg)
 
 | Info | Description |
 | ----------- | ----------- |

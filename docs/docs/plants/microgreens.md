@@ -6,42 +6,6 @@
 
 This is a collection of microgreens that I've grown.
 
-## Spicy Salad Mix
-
-![](/img/plants/microgreens/basic-salad-mix.jpg)
-
-| Info | Description |
-| ----------- | ----------- |
-| Website | [True Leaf Market](https://www.trueleafmarket.com/products/spicy-salad-mix-seed) |
-| Toxic to cats |  |
-| Sun |  |
-| Maturity Time | 8-12 days |
-| Growth |  |
-
-## Black Oil Sunflower
-
-![](/img/plants/microgreens/black-oil-sunflower.jpg)
-
-| Info | Description |
-| ----------- | ----------- |
-| Website | [True Leaf Market](https://www.trueleafmarket.com/products/sunflower-black-oil-microgreens-seeds) |
-| Toxic to cats |  |
-| Sun |  |
-| Maturity Time | 7-10 days |
-| Growth |  |
-
-## Swiss Chard - Rainbow Mixture
-
-![](/img/plants/microgreens/chard-rainbow.jpg)
-
-| Info | Description |
-| ----------- | ----------- |
-| Website | [True Leaf Market](https://www.trueleafmarket.com/products/swiss-chard-rainbow-mixture-microgreens-seeds) |
-| Toxic to cats |  |
-| Sun |  |
-| Maturity Time | 8-12 days |
-| Growth |  |
-
 ## Green Pea - Sprouting
 
 ![](/img/plants/microgreens/green-pea.jpg)
@@ -64,4 +28,40 @@ This is a collection of microgreens that I've grown.
 | Toxic to cats |  |
 | Sun |  |
 | Maturity Time | 6-10 days |
+| Growth |  |
+
+## Spicy Salad Mix
+
+![](/img/plants/microgreens/basic-salad-mix.jpg)
+
+| Info | Description |
+| ----------- | ----------- |
+| Website | [True Leaf Market](https://www.trueleafmarket.com/products/spicy-salad-mix-seed) |
+| Toxic to cats |  |
+| Sun |  |
+| Maturity Time | 8-12 days |
+| Growth |  |
+
+## Sunflower - Black Oil
+
+![](/img/plants/microgreens/black-oil-sunflower.jpg)
+
+| Info | Description |
+| ----------- | ----------- |
+| Website | [True Leaf Market](https://www.trueleafmarket.com/products/sunflower-black-oil-microgreens-seeds) |
+| Toxic to cats |  |
+| Sun |  |
+| Maturity Time | 7-10 days |
+| Growth |  |
+
+## Swiss Chard - Rainbow Mixture
+
+![](/img/plants/microgreens/chard-rainbow.jpg)
+
+| Info | Description |
+| ----------- | ----------- |
+| Website | [True Leaf Market](https://www.trueleafmarket.com/products/swiss-chard-rainbow-mixture-microgreens-seeds) |
+| Toxic to cats |  |
+| Sun |  |
+| Maturity Time | 8-12 days |
 | Growth |  |

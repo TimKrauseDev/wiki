@@ -6,6 +6,18 @@
 
 This is a collection of fruits and vegetables that I've grown.
 
+## Cucamelon - Mexican Sour Gherkin
+
+![](/img/plants/fruits-and-vegetables/cucamelon-mexican-sour-gherkin.jpg)
+
+| Info | Description |
+| ----------- | ----------- |
+| Website | [True Leaf Market](#) |
+| Toxic to cats |  |
+| Sun | Full sun |
+| Maturity Time | 65 days |
+| Growth | Vine |
+
 ## Cucumber Seeds - Burpless Bush Slicer F1
 
 ![](/img/plants/fruits-and-vegetables/cucumber-burpless-bush-slicer-f1.jpg)
@@ -17,44 +29,6 @@ This is a collection of fruits and vegetables that I've grown.
 | Sun | Full sun |
 | Maturity Time | 55-60 days |
 | Growth | Compact Bush; 10" x 1-1/2" fruit |
-
-## Radish - Cherry Belle
-
-![](/img/plants/fruits-and-vegetables/radish-cherry-belle.jpg)
-
-| Info | Description |
-| ----------- | ----------- |
-| Website | [True Leaf Market](https://www.trueleafmarket.com/products/radish-cherry-belle-seeds) |
-| Toxic to cats |  |
-| Sun | Full sun |
-| Maturity Time | 12-28 days |
-| Growth | 6-8" height |
-
-## Strawberry - Berries Basket White Hybrid
-
-![](/img/plants/fruits-and-vegetables/strawberry-berries-basket-white-hybrid.jpg)
-
-| Info | Description |
-| ----------- | ----------- |
-| Website | [True Leaf Market](https://www.trueleafmarket.com/products/strawberry-berries-basket-white-hybrid-seeds) |
-| Toxic to cats |  |
-| Sun | Full sun |
-| Maturity Time | 85 days |
-| Growth | herbaceous |
-
-## Strawberry - Four Seasons
-
-These never grow.
-
-![](/img/plants/fruits-and-vegetables/strawberry-four-seasons.jpg)
-
-| Info | Description |
-| ----------- | ----------- |
-| Website | [Amazon](https://www.amazon.com/gp/product/B0CCP4G7TW) |
-| Toxic to cats |  |
-| Sun | Full sun |
-| Maturity Time | |
-| Growth | |
 
 ## Pepper - Sweet - Pretty N Sweet
 
@@ -80,17 +54,45 @@ These never grow.
 | Maturity Time | 56+ (pods); 70+ (seeds) |
 | Growth | dwarf/compact/short-vine |
 
-## Cucamelon - Mexican Sour Gherkin
+## Radish - Cherry Belle
 
-![](/img/plants/fruits-and-vegetables/cucamelon-mexican-sour-gherkin.jpg)
+![](/img/plants/fruits-and-vegetables/radish-cherry-belle.jpg)
 
 | Info | Description |
 | ----------- | ----------- |
-| Website | [True Leaf Market](#) |
+| Website | [True Leaf Market](https://www.trueleafmarket.com/products/radish-cherry-belle-seeds) |
 | Toxic to cats |  |
 | Sun | Full sun |
-| Maturity Time | 65 days |
-| Growth | Vine |
+| Maturity Time | 12-28 days |
+| Growth | 6-8" height |
+
+## Strawberry
+
+### Strawberry - Berries Basket White Hybrid
+
+![](/img/plants/fruits-and-vegetables/strawberry-berries-basket-white-hybrid.jpg)
+
+| Info | Description |
+| ----------- | ----------- |
+| Website | [True Leaf Market](https://www.trueleafmarket.com/products/strawberry-berries-basket-white-hybrid-seeds) |
+| Toxic to cats |  |
+| Sun | Full sun |
+| Maturity Time | 85 days |
+| Growth | herbaceous |
+
+### Strawberry - Four Seasons
+
+These never grow.
+
+![](/img/plants/fruits-and-vegetables/strawberry-four-seasons.jpg)
+
+| Info | Description |
+| ----------- | ----------- |
+| Website | [Amazon](https://www.amazon.com/gp/product/B0CCP4G7TW) |
+| Toxic to cats |  |
+| Sun | Full sun |
+| Maturity Time | |
+| Growth | |
 
 ## Tomato Dwarf - Red and Yellow
 

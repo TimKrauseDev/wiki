@@ -6,35 +6,111 @@
 
 This is a collection of greens that I've grown.
 
+## Arugula
+
+![](/img/plants/greens/arugula.jpg)
+
+| Info | Description |
+| ----------- | ----------- |
+| Website | [Amazon - Organo Republic](https://www.amazon.com/gp/product/B0BNJQVKKZ) |
+| Toxic to cats |  |
+| Sun |  |
+| Maturity Time |  |
+| Growth |  |
+
+## Collards
+
+![](/img/plants/greens/collards.jpg)
+
+| Info | Description |
+| ----------- | ----------- |
+| Website | [Amazon - Organo Republic](https://www.amazon.com/gp/product/B0BNJQVKKZ) |
+| Toxic to cats |  |
+| Sun |  |
+| Maturity Time |  |
+| Growth |  |
+
+## Curled
+
+### Curled Cress
+
+![](/img/plants/greens/curled-cress.jpg)
+
+| Info | Description |
+| ----------- | ----------- |
+| Website | [Amazon - Organo Republic](https://www.amazon.com/gp/product/B0BNJQVKKZ) |
+| Toxic to cats |  |
+| Sun |  |
+| Maturity Time |  |
+| Growth |  |
+
+### Curled Mustard
+
+![](/img/plants/greens/curled-mustard.jpg)
+
+| Info | Description |
+| ----------- | ----------- |
+| Website | [Amazon - Organo Republic](https://www.amazon.com/gp/product/B0BNJQVKKZ) |
+| Toxic to cats |  |
+| Sun |  |
+| Maturity Time |  |
+| Growth |  |
+
+## Endive
+
+### Broadleaf Endive
+
+![](/img/plants/greens/broadleaf-endive.jpg)
+
+| Info | Description |
+| ----------- | ----------- |
+| Website | [Amazon - Organo Republic](https://www.amazon.com/gp/product/B0BNJQVKKZ) |
+| Toxic to cats |  |
+| Sun |  |
+| Maturity Time |  |
+| Growth |  |
+
+### Curled Ruffec Endive
+
+![](/img/plants/greens/curled-ruffec-endive.jpg)
+
+| Info | Description |
+| ----------- | ----------- |
+| Website | [Amazon - Organo Republic](https://www.amazon.com/gp/product/B0BNJQVKKZ) |
+| Toxic to cats |  |
+| Sun |  |
+| Maturity Time |  |
+| Growth |  |
+
+## Kale
+
+![](/img/plants/greens/kale.jpg)
+
+| Info | Description |
+| ----------- | ----------- |
+| Website | [Amazon - Organo Republic](https://www.amazon.com/gp/product/B0BNJQVKKZ) |
+| Toxic to cats |  |
+| Sun |  |
+| Maturity Time |  |
+| Growth |  |
+
 ## Lettuce
+
+### Bibb Lettuce
+
+![](/img/plants/greens/bibb-lettuce.jpg)
+
+| Info | Description |
+| ----------- | ----------- |
+| Website | [Amazon - Organo Republic](https://www.amazon.com/gp/product/B0BNJQVKKZ) |
+| Toxic to cats |  |
+| Sun |  |
+| Maturity Time |  |
+| Growth |  |
 
 ### Buttercrunch Lettuce
 
 ![](/img/plants/greens/buttercrunch-lettuce.jpg)
-
-| Info | Description |
-| ----------- | ----------- |
-| Website | [Amazon - Organo Republic](https://www.amazon.com/gp/product/B0BNJQVKKZ) |
-| Toxic to cats |  |
-| Sun |  |
-| Maturity Time |  |
-| Growth |  |
-
-### Oakleaf Green Lettuce
-
-![](/img/plants/greens/oakleaf-lettuce.jpg)
-
-| Info | Description |
-| ----------- | ----------- |
-| Website | [Amazon - Organo Republic](https://www.amazon.com/gp/product/B0BNJQVKKZ) |
-| Toxic to cats |  |
-| Sun |  |
-| Maturity Time |  |
-| Growth |  |
-
-### Iceberg Lettuce
-
-![](/img/plants/greens/iceberg-lettuce.jpg)
 
 | Info | Description |
 | ----------- | ----------- |
@@ -56,9 +132,9 @@ This is a collection of greens that I've grown.
 | Maturity Time |  |
 | Growth |  |
 
-### Prizehead Lettuce
+### Iceberg Lettuce
 
-![](/img/plants/greens/prizehead-lettuce.jpg)
+![](/img/plants/greens/iceberg-lettuce.jpg)
 
 | Info | Description |
 | ----------- | ----------- |
@@ -68,9 +144,21 @@ This is a collection of greens that I've grown.
 | Maturity Time |  |
 | Growth |  |
 
-### Simpson Green Leaf Lettuce
+### Oakleaf Green Lettuce
 
-![](/img/plants/greens/simpson-green-leaf-lettuce.jpg)
+![](/img/plants/greens/oakleaf-lettuce.jpg)
+
+| Info | Description |
+| ----------- | ----------- |
+| Website | [Amazon - Organo Republic](https://www.amazon.com/gp/product/B0BNJQVKKZ) |
+| Toxic to cats |  |
+| Sun |  |
+| Maturity Time |  |
+| Growth |  |
+
+### Prizehead Lettuce
+
+![](/img/plants/greens/prizehead-lettuce.jpg)
 
 | Info | Description |
 | ----------- | ----------- |
@@ -92,59 +180,9 @@ This is a collection of greens that I've grown.
 | Maturity Time |  |
 | Growth |  |
 
-### Bibb Lettuce
+### Simpson Green Leaf Lettuce
 
-![](/img/plants/greens/bibb-lettuce.jpg)
-
-| Info | Description |
-| ----------- | ----------- |
-| Website | [Amazon - Organo Republic](https://www.amazon.com/gp/product/B0BNJQVKKZ) |
-| Toxic to cats |  |
-| Sun |  |
-| Maturity Time |  |
-| Growth |  |
-
-## Arugula
-
-![](/img/plants/greens/arugula.jpg)
-
-| Info | Description |
-| ----------- | ----------- |
-| Website | [Amazon - Organo Republic](https://www.amazon.com/gp/product/B0BNJQVKKZ) |
-| Toxic to cats |  |
-| Sun |  |
-| Maturity Time |  |
-| Growth |  |
-
-## Spinach
-
-![](/img/plants/greens/spinach.jpg)
-
-| Info | Description |
-| ----------- | ----------- |
-| Website | [Amazon - Organo Republic](https://www.amazon.com/gp/product/B0BNJQVKKZ) |
-| Toxic to cats |  |
-| Sun |  |
-| Maturity Time |  |
-| Growth |  |
-
-
-## Swiss Chard
-
-![](/img/plants/greens/swiss-chard.jpg)
-
-| Info | Description |
-| ----------- | ----------- |
-| Website | [Amazon - Organo Republic](https://www.amazon.com/gp/product/B0BNJQVKKZ) |
-| Toxic to cats |  |
-| Sun |  |
-| Maturity Time |  |
-| Growth |  |
-
-
-## Kale
-
-![](/img/plants/greens/kale.jpg)
+![](/img/plants/greens/simpson-green-leaf-lettuce.jpg)
 
 | Info | Description |
 | ----------- | ----------- |
@@ -166,58 +204,6 @@ This is a collection of greens that I've grown.
 | Maturity Time |  |
 | Growth |  |
 
-## Curled
-
-### Curled Mustard
-
-![](/img/plants/greens/curled-mustard.jpg)
-
-| Info | Description |
-| ----------- | ----------- |
-| Website | [Amazon - Organo Republic](https://www.amazon.com/gp/product/B0BNJQVKKZ) |
-| Toxic to cats |  |
-| Sun |  |
-| Maturity Time |  |
-| Growth |  |
-
-### Curled Cress
-
-![](/img/plants/greens/curled-cress.jpg)
-
-| Info | Description |
-| ----------- | ----------- |
-| Website | [Amazon - Organo Republic](https://www.amazon.com/gp/product/B0BNJQVKKZ) |
-| Toxic to cats |  |
-| Sun |  |
-| Maturity Time |  |
-| Growth |  |
-
-## Endive
-
-### Curled Ruffec Endive
-
-![](/img/plants/greens/curled-ruffec-endive.jpg)
-
-| Info | Description |
-| ----------- | ----------- |
-| Website | [Amazon - Organo Republic](https://www.amazon.com/gp/product/B0BNJQVKKZ) |
-| Toxic to cats |  |
-| Sun |  |
-| Maturity Time |  |
-| Growth |  |
-
-### Broadleaf Endive
-
-![](/img/plants/greens/broadleaf-endive.jpg)
-
-| Info | Description |
-| ----------- | ----------- |
-| Website | [Amazon - Organo Republic](https://www.amazon.com/gp/product/B0BNJQVKKZ) |
-| Toxic to cats |  |
-| Sun |  |
-| Maturity Time |  |
-| Growth |  |
-
 ## Mizuna
 
 ![](/img/plants/greens/mizuna.jpg)
@@ -230,9 +216,21 @@ This is a collection of greens that I've grown.
 | Maturity Time |  |
 | Growth |  |
 
-## Collards
+## Spinach
 
-![](/img/plants/greens/collards.jpg)
+![](/img/plants/greens/spinach.jpg)
+
+| Info | Description |
+| ----------- | ----------- |
+| Website | [Amazon - Organo Republic](https://www.amazon.com/gp/product/B0BNJQVKKZ) |
+| Toxic to cats |  |
+| Sun |  |
+| Maturity Time |  |
+| Growth |  |
+
+## Swiss Chard
+
+![](/img/plants/greens/swiss-chard.jpg)
 
 | Info | Description |
 | ----------- | ----------- |
