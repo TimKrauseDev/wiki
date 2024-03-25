@@ -23,6 +23,11 @@ const config: Config = {
     [
       'classic',
       {
+        gtag: {
+          trackingID: 'G-8C0SYEC0GN'
+        }
+      },
+      {
         docs: {
           sidebarPath: './sidebars.ts',
           editUrl: 'https://github.com/TimKrauseDev/wiki/edit/main/',
