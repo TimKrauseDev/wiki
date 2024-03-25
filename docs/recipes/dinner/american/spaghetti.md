@@ -4,7 +4,7 @@
 
 # Spaghetti
 
-![Spaghetti](/img/recipes/spaghetti.jpg)
+<!-- ![Spaghetti](/img/recipes/spaghetti.jpg) -->
 
 This is a description. Spaghetti is good.
 
