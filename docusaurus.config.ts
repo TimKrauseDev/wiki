@@ -17,6 +17,7 @@ const config: Config = {
   projectName: 'wiki',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
+  noIndex: true,
 
   i18n,
   presets,
