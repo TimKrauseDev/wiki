@@ -5,10 +5,11 @@ import { ThemeConfig } from '@docusaurus/types';
 const config: ThemeConfig = {
   image: 'img/docusaurus-social-card.jpg',
   colorMode: {
-    respectPrefersColorScheme: true
+    defaultMode: 'dark',
+    disableSwitch: true,
+    respectPrefersColorScheme: false,
   },
   navbar: {
-    title: 'Tim\'s Wiki',
     logo: {
       alt: 'Tim\'s Wiki',
       src: 'img/logo.svg',
@@ -51,43 +52,34 @@ const config: ThemeConfig = {
         title: 'Docs',
         items: [
           {
-            label: 'Tutorial',
-            to: '/docs/intro',
+            label: 'Recipes',
+            to: '/docs/recipes/intro',
+          },
+          {
+            label: 'Plants',
+            to: '/docs/plants/current',
+          },
+          {
+            label: 'Misc',
+            to: '/docs/misc/intro',
           },
         ],
       },
       {
-        title: 'Community',
+        title: 'Tim',
         items: [
-          {
-            label: 'Stack Overflow',
-            href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-          },
-          {
-            label: 'Discord',
-            href: 'https://discordapp.com/invite/docusaurus',
-          },
-          {
-            label: 'Twitter',
-            href: 'https://twitter.com/docusaurus',
-          },
-        ],
-      },
-      {
-        title: 'More',
-        items: [
-          {
-            label: 'Blog',
-            to: '/blog',
-          },
           {
             label: 'GitHub',
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/TimKrauseDev',
+          },
+          {
+            label: 'Portfolio',
+            href: 'https://timkrause.dev',
           },
         ],
       },
     ],
-    copyright: `Copyright © ${new Date().getFullYear()} Wiki.`,
+    copyright: `Copyright © ${new Date().getFullYear()} Tim's Wiki.`,
   },
   prism: {
     theme: prismThemes.github,
