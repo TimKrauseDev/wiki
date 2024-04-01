@@ -1,14 +1,14 @@
 ---
-# sidebar_position: 0
+sidebar_position: 1
 ---
 
 # Starter Feeding
 
-<!-- ![Recipe_Name](/img/recipes/recipe_name.jpg) -->
+<!-- ![](/img/recipes/recipe_name.jpg) -->
 
 This is the golden ratio for feeding your starter.
 
-## Ingredients
+### Ingredients
 
 All ingredients should be at a ratio of **1:1:1*
 
@@ -16,7 +16,7 @@ All ingredients should be at a ratio of **1:1:1*
 - bread flour
 - filtered water (80 - 90°F)
 
-## Directions
+### Directions
 
 - Mix water and starter until milky
 - Mix bread flour into the starter

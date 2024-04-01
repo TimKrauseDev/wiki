@@ -4,13 +4,13 @@
 
 # Discard Pretzels
 
-![Recipe_Name](/img/recipes/sourdough/discard_pretzels.jpg)
+![](/img/recipes/sourdough/discard_pretzels.jpg)
 
 Description of recipe
 
-## Ingredients
+### Ingredients
 
-**Dough**
+#### Dough
 
 - 1 cup + 2 tbsp filtered water (80 - 90°F)
 - 1 tbsp dark brown sugar
@@ -20,18 +20,18 @@ Description of recipe
 - 2 tsp salk
 - 4 tbsp unsalted butter (melted)
 
-**Boiling water**
+#### Boiling Water
 
 - 10 cups water
 - 2/3 cup baking soda
 
-**Topping**
+#### Toppings
 
 - 1 egg yolk
 - 1 tbsp filtered water
 - flaky salt
 
-## Directions
+### Directions
 
 - Mix water and brown sugar
 - Add yeast to top (don't mix) and wait 5 minutes make sure yeast starts to bubble

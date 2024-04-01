@@ -4,18 +4,18 @@
 
 # Bread bowl
 
-![Recipe_Name](/img/recipes/sourdough/starter_bread-bowl.jpg)
+![](/img/recipes/sourdough/starter_bread-bowl.jpg)
 
 Recipe for a basic loaf of sourdough bread.
 
-## Ingredients
+### Ingredients
 
 - 150g starter
 - 350 - 360g filtered water (80 - 90°F)
 - 500g bread flour
 - 7g salt
 
-## Directions
+### Directions
 
 - **Prep:** Feed starter in the morning & wait 4-5 hours for starter to at least double in size
 - Mix starter and filtered water until milky

@@ -4,16 +4,16 @@
 
 # Crackers
 
-<!-- ![Recipe_Name](/img/recipes/recipe_name.jpg) -->
+<!-- ![](/img/recipes/recipe_name.jpg) -->
 
 Description of recipe
 
-## Ingredients
+### Ingredients
 
 - 200g sourdough discard
 - 2 tbsp butter (melted)
 
-## Directions
+### Directions
 
 - Preheat oven to 325°F
 - Mix sourdough discard and melted butter
