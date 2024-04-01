@@ -4,17 +4,17 @@
 
 # Recipe_Name
 
-<!-- ![Recipe_Name](/img/recipes/recipe_name.jpg) -->
+<!-- ![](/img/recipes/recipe_name.jpg) -->
 
 Description of recipe
 
-## Ingredients
+### Ingredients
 
 - Ingredient One
 - Ingredient Two
 - Ingredient Three
 
-## Directions
+### Directions
 
 - Direction One
 - Direction Two
