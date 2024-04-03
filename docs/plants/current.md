@@ -8,7 +8,7 @@ This is my currently planted items.
 
 **TRBLC:** Top, Right, Bottom, Left, Center
 
-**U:** Unknown (options: Catnip, Lavender, Thyme, Red Lettuce)
+**U:** Unknown (options: Lavender, Thyme, Red Lettuce)
 
 ## Containers
 
@@ -16,8 +16,8 @@ This is my currently planted items.
 
 | Container | TL | TR | C | BL | BR |
 | - | - | - | - | - | - |
-| L | Tomato | - | - | Cucumber | Marigold |
-| C | Tomato | U | U | Radish | Radish |
+| L | Tomato | - | Pepper | Cucumber | Marigold |
+| C | Tomato | U | Catnip | Radish | Radish |
 | R | Tomato | Cilantro | Dill | U | Spearmint |
 
 ### Top Row
@@ -42,7 +42,7 @@ This is my currently planted items.
 
 | Col 1 | Col 2 | Col 3 | Col 4 |
 | - | - | - | - |
-| Pepper | - | Gherkin | Pea |
+| - | - | Gherkin | Pea |
 | - | - | - | - |
 | Nasturtium | - | - | - |
 | - | - | - | - |
